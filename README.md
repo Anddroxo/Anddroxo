@@ -11,15 +11,27 @@
 - ⚡ Fun fact: ...
 
 
-## Repositories
+## Repositorys
 
 https://github.com/Anddroxo/de.anddro.collector
 
 > App mit verschiedenen Modulen
 
+https://github.com/Anddroxo/de.anddro.collector.beta
+
+> Beta Version von Collector mit den neuesten Funktionen zum Testen vor Veröffentlichung
+
+https://github.com/Anddroxo/de.anddro.collector.test
+
+> Test Version von Collector mit neuesten Funktionen, Anpassungen und Tests zum Ausprobieren
+
 https://github.com/Anddroxo/de.anddro.library
 
 > Bibliothek für gemeinsam genutzte Ressourcen
+
+https://github.com/Anddroxo/CodingHelper
+
+> Windows Tools und Skripte für verschiedenste Aufgaben
 
 
 ## Webseite
